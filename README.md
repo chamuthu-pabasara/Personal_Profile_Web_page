@@ -8,9 +8,9 @@ Welcome to my personal profile webpage! This project showcases my skills, experi
  * Contact Form: Easy way for visitors to get in touch with me.
 
 ## Technologies Used
-Frontend: HTML, CSS, JavaScript
-Styling: Bootstrap
-Animations: CSS Animations
+ * Frontend: HTML, CSS, JavaScript
+ * Styling: Bootstrap
+ * Animations: CSS Animations
 
 ## Usage
  * Visit the homepage to learn more about me and my work.
